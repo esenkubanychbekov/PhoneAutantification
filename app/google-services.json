@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "781150157819",
+    "firebase_url": "https://phonelogin-95c3b.firebaseio.com",
+    "project_id": "phonelogin-95c3b",
+    "storage_bucket": "phonelogin-95c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781150157819:android:03a0bda24757a001",
+        "android_client_info": {
+          "package_name": "com.example.phonelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781150157819-q9ku4aefg1pm6f2o2f3rbd7rp5ff2nlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phonelogin",
+            "certificate_hash": "3a4cdccff675cd80b0eeb850b202a7a235447a31"
+          }
+        },
+        {
+          "client_id": "781150157819-p2o0dctf4b8fs4qkrthf45r7oa2t7emo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzC6rMGSGr7PplCD5ND6z-Gy0OWZCxiVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781150157819-p2o0dctf4b8fs4qkrthf45r7oa2t7emo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
